@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a146c747b9d367f4fb636a2fbaf8b3ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carEngine: {fileID: 8300000, guid: fa8749ad7fd791e46b7728fe78c42f9a, type: 3}
+  - money: {fileID: 8300000, guid: 298ca1e9a90248c4f8bfa64b1ad95a7e, type: 3}
+  - openDoor: {fileID: 8300000, guid: 864f4b877702edd41896b94aca10699e, type: 3}
+  - knockDoor: {fileID: 8300000, guid: 7ff7230a224e82f40916d2526ddf7644, type: 3}
+  - buzz: {fileID: 8300000, guid: c0efedea8435a3449964dd048f349cbc, type: 3}
+  - hang: {fileID: 8300000, guid: 3b951055358c31643807347cc5d41252, type: 3}
+  - furnituremove: {fileID: 8300000, guid: 941a294c40a8cae43ae386291075285b, type: 3}
+  - crowd: {fileID: 8300000, guid: db3f130b587e70b4893e970e5a7beb4e, type: 3}
+  - hangphone: {instanceID: 0}
+  - cellring: {fileID: 8300000, guid: 88fe936dc7a7aeb4ba066582eb4fa316, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

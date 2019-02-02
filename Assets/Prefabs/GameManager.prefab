@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1964514092862074}
+  m_IsPrefabParent: 1
+--- !u!1 &1964514092862074
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4557176629211216}
+  - component: {fileID: 114938686989946800}
+  - component: {fileID: 114141151150510822}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4557176629211216
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1964514092862074}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 319, y: 199.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114141151150510822
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1964514092862074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a146c747b9d367f4fb636a2fbaf8b3ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  carEngine: {fileID: 8300000, guid: fa8749ad7fd791e46b7728fe78c42f9a, type: 3}
+  money: {fileID: 8300000, guid: 298ca1e9a90248c4f8bfa64b1ad95a7e, type: 3}
+  openDoor: {fileID: 8300000, guid: 864f4b877702edd41896b94aca10699e, type: 3}
+  knockDoor: {fileID: 8300000, guid: 7ff7230a224e82f40916d2526ddf7644, type: 3}
+  buzz: {fileID: 8300000, guid: c0efedea8435a3449964dd048f349cbc, type: 3}
+  hang: {fileID: 8300000, guid: 3b951055358c31643807347cc5d41252, type: 3}
+  furnituremove: {fileID: 8300000, guid: 941a294c40a8cae43ae386291075285b, type: 3}
+  crowd: {fileID: 8300000, guid: db3f130b587e70b4893e970e5a7beb4e, type: 3}
+  cellring: {fileID: 8300000, guid: 88fe936dc7a7aeb4ba066582eb4fa316, type: 3}
+  dishes: {fileID: 8300000, guid: 76dc00af62a0b2648aeae356136fa73b, type: 3}
+  soundTrack1: {fileID: 8300000, guid: 0b731899a83093b44a3738cc0e061a68, type: 3}
+  soundTrack2: {fileID: 8300000, guid: a7febcdd75831b74a99902c50ca4a8e3, type: 3}
+  soundTrack3: {fileID: 8300000, guid: f187d81726455ab498ddaa84a81cfbc8, type: 3}
+  songFX: {fileID: 0}
+  soundTrack: {fileID: 0}
+  current: -1
+--- !u!114 &114938686989946800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1964514092862074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1acb20f086d9364680d0418d460026b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panelInitialItems: {fileID: 0}

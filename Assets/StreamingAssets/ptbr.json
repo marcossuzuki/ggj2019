@@ -1,0 +1,458 @@
+﻿{"gameDialog":[
+
+
+{"id":0,"charName":"ME","text":"Aleluía, finalmente estou me mudando! Este dia finalmente chegou! Eu não posso acreditar que estou saindo desse quarto!","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioCasaVazia2.png","songs":[20],"multiple":0,"decisions":["Next"],"nextId":[1],"idItem":[]},
+{"id":1,"charName":"ME","text":"Não se preocupe mais se eu estiver fazendo muito barulho, ou se alguém for entrando enquanto eu estou… <PAUSE> bem… <PAUSE>  esquece. ","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioCasaVazia2.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[2],"idItem":[]},
+{"id":2,"charName":"ME","text":"Eu acho que não estou sendo completamente justo. Há tantas memórias que permanecem aqui. <PAUSE> Eu quase posso sentir-las.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioCasaVazia2.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[3],"idItem":[]},
+{"id":3,"charName":"ME","text":"Nossa, eu não tenho certeza se posso deixar tudo para trás… talvez eu deva levar algumas lembranças? Talvez como… três ou mais?","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioCasaVazia2.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[4],"idItem":[]},
+{"id":4,"charName":"","text":"Escolha três itens para o quarto novo.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioCasaVazia2.png","songs":[],"multiple":3,"decisions":["Next"],"nextId":[5],"idItem":[]},
+{"id":5,"charName":"ME","text":"Não sei se vou ter um lar de verdade logo de cara. Eu espero que isso ajude a sentir um pouco mais aconchegante.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioCasaVazia2.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[6],"idItem":[]},
+{"id":6,"charName":"ME","text":"<Toque do Telefone>.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioCasaVazia2.png","songs":[1],"multiple":0,"decisions":["Next"],"nextId":[7],"idItem":[]},
+
+{"id":7,"charName":"ME","text":"Hmm? Quem será? Oh, É o Evan!","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[8],"idItem":[]},
+{"id":8,"charName":"EVAN","text":"Greetings and salutations, comrade!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[9],"idItem":[]},
+{"id":9,"charName":"ME","text":"Ola, seu bobo. Como você está esse dias?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[10],"idItem":[]},
+{"id":10,"charName":"EVAN","text":"Ah você sabe, Eu estava pensando em ir para aquele novo fliperama retrô e me perguntei se você gostária de uma carona?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[11],"idItem":[]},
+{"id":11,"charName":"ME","text":"Hmm, Evan. Você sabe que eu adoraria, mas esqueceu que estava de mudança hoje.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[12],"idItem":[]},
+{"id":12,"charName":"EVAN","text":"Oh, droga, Eu esqueci completamente que havia alguma coisa para eu supostamente tinha que fazer hoje. Você precisa de qualquer ajuda hoje? Eu posso te levar se você queiser…","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[13],"idItem":[]},
+{"id":13,"charName":"ME","text":"Não se preocupe, chapa! O motorista do caminhão está me dando uma carona, mas avisarei se algo acontecer!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[14],"idItem":[]},
+{"id":14,"charName":"EVAN","text":"Ok! Mas se precisar de qualquer coisa…","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[15],"idItem":[]},
+{"id":15,"charName":"ME","text":"Eu sei, Eu sei!! Eu te ligo! Vai, aproveite o seu fliperama e não se esqueça de me avisar como foi mais tarde!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[16],"idItem":[]},
+{"id":16,"charName":"EVAN","text":"Legal, Legal! Se cuida!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[17],"idItem":[]},
+{"id":17,"charName":"ME","text":"Bem, É hora de ir!","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioCasaVazia2.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[18],"idItem":[]},
+
+{"id":18,"charName":"ME","text":"Eu me pergunto se não é um pouco de mais… viver sem ninguem. Tendo que fazer todas as tarefas. E se eu estiver mordendo mais do que eu possa mastigar?","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[19],"idItem":[]},
+{"id":19,"charName":"ME","text":"Bem, nada de pensar desse jeito não vão ajudar em nada. Eu tenho certesa que não vai ser tão ruim assim. E eu vou ter sempre Evan e Nana se eu realmente precisar falar com alguem.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[20],"idItem":[]},
+{"id":20,"charName":"ME","text":"Vai dar tudo certo!","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[21],"idItem":[]},
+{"id":21,"charName":"","text":"<Ruido de Frenagem>. Tela treme levemente.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[22],"idItem":[]},
+{"id":22,"charName":"ME","text":"Ok, Chegamos. Agora ao desempacotament… yipee… ee?","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[23],"idItem":[]},
+{"id":23,"charName":"ME","text":"Bem, tem mais caixa que eu gostaria de lidar…","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[24],"idItem":[]},
+{"id":24,"charName":"","text":"<Batidas na porta>.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[2],"multiple":0,"decisions":["Next"],"nextId":[25],"idItem":[]},
+{"id":25,"charName":"ME","text":"Droga? Eu não conheço niguem aqui, ainda…","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[26],"idItem":[]},
+{"id":26,"charName":"LEELA","text":"Boa Tarde! Minhas desculpas por eu estar batendo em uma hora ruim!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[27],"idItem":[]},
+{"id":27,"charName":"ME","text":"Não se preocupa! Está tudo bem!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[28],"idItem":[]},
+{"id":28,"charName":"LEELA","text":"Oh, fico feliz de ouvir isso! Muito prazer, Eu me chamo Leela. Eu vivo em outro appartamento aqui no térreo! O carteiro deixou esse pacote na frente da minha casa, mas era para você. Acho que não tinha niguem ainda morando aqui ainda!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[29],"idItem":[]},
+{"id":29,"charName":"ME","text":"Oh, Muito obrigado, Leela! Estou feliz por ter uma maravilhosa vizinha! É uma supresa agradavel para se ter, hahaha!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[30],"idItem":[]},
+{"id":30,"charName":"LEELA","text":"Não se preocupe e obrigado! Eu espero que você aprecie a vizinhaça. Estou feliz que nos demos bem!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[31],"idItem":[]},
+{"id":31,"charName":"ME","text":"Estou feliz também, Leela. Vizinhos de porta da frente, hein? Eu acho que nós vamos nos ver muito! Talvez você possa vir visitar quando eu terminar de desempacotar, hahaha.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[32],"idItem":[]},
+{"id":32,"charName":"LEELA","text":"Eu adoraria! E você pode vir também, desde que você não se incomode com os meus animais. Eu vou deixar você voltar para as suas caixas, mas se você precisar de qualquer coisa, não hesite em chamar, ok?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[33],"idItem":[]},
+{"id":33,"charName":"ME","text":"Eu estou gostando de você mais e mais, Leela! Eu vou te cobrar isso! Muito Obrigado!!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[34],"idItem":[]},
+{"id":34,"charName":"LEELA","text":"Não se preocupe, não se preocupe! Se cuide!!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[35],"idItem":[]},
+{"id":35,"charName":"","text":"<Porta Fechando>. Sprite da Leela desaparece. Aparece na tela (talvez? Podemos ter um pacote?).","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[3],"multiple":0,"decisions":["Next"],"nextId":[36],"idItem":[]},
+{"id":36,"charName":"ME","text":"Bom, e agora, De quem é esse?","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[37],"idItem":[]},
+{"id":37,"charName":"ME","text":"Oh, É da Nana!","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[38],"idItem":[]},
+{"id":38,"charName":"ME","text":"É a sua geléia caseira. Oh, Nana Você é simplesmente a melhor!","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[39],"idItem":[]},
+{"id":39,"charName":"ME","text":"Tem um bilhete, também!","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[40],"idItem":[]},
+{"id":40,"charName":"NOTE","text":"Olá, amor. Espero que você goste do meu presente modesto. Eu sei que mudar não é uma coisa fácil de se fazer, e e também sei que você vai quere trabalhar de barriga cheia!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[41],"idItem":[]},
+{"id":41,"charName":"NOTE","text":"Meu bem, se você precisar, de qualquer coisa, digo qualquer coisa mesmo, não hesite de me ligar. Eu posso ser velha, mas eu ainda sou forte o suficiente para te ajudar.Você está vivendo longe de seus pais agora, porém nós estaremos muito mais próximos do que nunca.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[42],"idItem":[]},
+{"id":42,"charName":"NOTE","text":"Com amor, Nana.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[43],"idItem":[]},
+{"id":43,"charName":"ME","text":"Oh, Eu amo a Nana. Estou tão feliz que estou morando perto dela agora.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[44],"idItem":[]},
+{"id":44,"charName":"ME","text":"Mas agora, É hora de trabalhar… são tantas caixas… talvez eu deva chamr alguem para ajudar?","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["EVAN", "NANA","LEELA"],"nextId":[45,70,98],"idItem":[]},
+
+
+
+{"id":45,"charName":"","text":"<DISCANDO O TELEFONE>. <TOQUE DO TELEFONE>. <TELEFONE ATENDIDO>. Sprite do EVAN aparece na tela quando a primeira linha dele inicia, por trás do diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[1],"multiple":0,"decisions":["Next"],"nextId":[46],"idItem":[]},
+{"id":46,"charName":"ME","text":"E ai, Evan! Como está?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[47],"idItem":[]},
+{"id":47,"charName":"EVAN","text":"Não muito bem, e Você como está?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[48],"idItem":[]},
+{"id":48,"charName":"ME","text":"Eu estou um pouco enrolado… Se lembra quano eu estava me mudando? Assim, uhm… Parece que eu suberistimei a quantidade de caixas que eu enviei.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[49],"idItem":[]},
+{"id":49,"charName":"EVAN","text":"Haha, não se preocupe! Eu estárei ai em um pulo. Podemos comer fora depois que nós terminarmos?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[50],"idItem":[]},
+{"id":50,"charName":"ME","text":"Eu não sei… Talvez pedir comida?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[51],"idItem":[]},
+{"id":51,"charName":"EVAN","text":"Oh, Perfeito! Fique bem aí!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[52],"idItem":[]},
+{"id":52,"charName":"","text":"<TELEFONE TOCANDO.> Srite do EVAN desaparece da tela.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[4],"multiple":0,"decisions":["Next"],"nextId":[53],"idItem":[]},
+{"id":53,"charName":"ME","text":"Tudo certo, de volta ao trabalho. Eu me pergunto se há alguma coisa boa para se pedir nas redondesas…","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[54],"idItem":[]},
+{"id":54,"charName":"ME","text":"Se eu soubesse que me mudar seria tanto trabalho…","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[55],"idItem":[]},
+{"id":55,"charName":"ME","text":"Eu sairia de qualquer maneira! Hahaha!","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[56],"idItem":[]},
+{"id":56,"charName":"","text":"<BATIDAS NA PORTA>. <SOM DE PORTA ABRINDO>. O sprite de Evan aparece na tela,por trás do diálogo.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[2],"multiple":0,"decisions":["Next"],"nextId":[57],"idItem":[]},
+{"id":57,"charName":"EVAN","text":"Ei, urso!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[58],"idItem":[]},
+{"id":58,"charName":"ME","text":"Pare. Você é tão brega!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[59],"idItem":[]},
+{"id":59,"charName":"EVAN","text":"Eu sei... E você ama isso!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[60],"idItem":[]},
+{"id":60,"charName":"EVAN","text":"Ei, Eu te trouxe uma coisa. Você sabe, assim você pode pensar em mim e me ligar mais vezes.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[61],"idItem":[]},
+{"id":61,"charName":"ME","text":"Obrigado, Evan! Você é tão pensativo, Eu não mereço você.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[62],"idItem":[]},
+{"id":62,"charName":"EVAN","text":"Você vai se arrepender de dizer isso antes de escurecer. Agora, onde está aquelas caixas?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[63],"idItem":[]},
+{"id":63,"charName":"","text":"Em 5 segundos <BARULHO DE MOVEIS SENDO MOVENDOS>.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[7],"multiple":0,"decisions":["Next"],"nextId":[64],"idItem":[]},
+{"id":64,"charName":"EVAN","text":"Ok. Eu estou com fome. Tem esse maravilhoso lugar chines que podemos pedir. Eu só sei que vocÊ vai amar os seus bolinhos.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[65],"idItem":["BED"]},
+{"id":65,"charName":"ME","text":"Com certeza! Vamos nessa!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[66],"idItem":[]},
+{"id":66,"charName":"","text":"<BARULHO DE RISADAS>. <BARULHO DE PRATOS QUE ESTÃO SENDO UTILIZADOS>.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[5],"multiple":0,"decisions":["Next"],"nextId":[67],"idItem":[]},
+{"id":67,"charName":"EVAN","text":"Incrivel. Melhor comida da minha vida. Eu tenho que ir agora, mas ligue se você quiser sair mais vezes.<3","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[68],"idItem":[]},
+{"id":68,"charName":"ME","text":"Hoje foi otimo, Evan. Você é o melhor. Boa Noite!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[69],"idItem":[]},
+{"id":69,"charName":"","text":"<SOM DA PORTA FECHANDO>. Sprite do EVAN desaparece. Item é desbloqueado.","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[3],"multiple":0,"decisions":["Next"],"nextId":[128],"idItem":["POSTER","WALKIETALKIE","ARCADE"]},
+
+
+
+{"id":70,"charName":"","text":"<TELEFONE DISCANDO>. <TELEFONE CHAMANDO>. <TELEFONE ATENDIDO>. Sprite da NANA aparece na tela quando a primeira linha se inicia, por trás do diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[1],"multiple":0,"decisions":["Next"],"nextId":[71],"idItem":[]},
+{"id":71,"charName":"ME","text":"Ola, Nana! Adivinha quem está ligando?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[72],"idItem":[]},
+{"id":72,"charName":"NANA","text":"Querida, Eu posso ser velha, mas eu tenho identificador de chamada.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[73],"idItem":[]},
+{"id":73,"charName":"ME","text":"Esperta como sempre, haha. Nana o que você está fazendo?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[74],"idItem":[]},
+{"id":74,"charName":"NANA","text":"Nada demais, apenas regando as plantas. O que você está fazendo, querida?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[75],"idItem":[]},
+{"id":75,"charName":"ME","text":"Entããoo,Eu estava desempacotando as minhas coisas, e eu estava pensando…","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[76],"idItem":[]},
+{"id":76,"charName":"NANA","text":"Não diga mais nada! Eu estou a caminho, querida.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[77],"idItem":[]},
+{"id":77,"charName":"ME","text":"Obrigado, Nana!!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[78],"idItem":[]},
+{"id":78,"charName":"","text":"<TELEFONE SENDO DESLIGADO.> Sprite da NANA desaparecendo da tela.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[4],"multiple":0,"decisions":["Next"],"nextId":[79],"idItem":[]},
+{"id":79,"charName":"ME","text":"Ok, de volta a bagunça. Eu me pergunto se ela está trazendo alguma coisa para comer, eu estou com fome…","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[80],"idItem":[]},
+{"id":80,"charName":"ME","text":"Se eu fizesse a ideia de que se mudar seria tanto trabalho…","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[81],"idItem":[]},
+{"id":81,"charName":"ME","text":"Eu me mudaria de qualquer forma! Hahaha!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[82],"idItem":[]},
+{"id":82,"charName":"","text":"<BATIDAS NA PORTA>. <SOM DA PORTA SE ABRINDO>. Sprite da NANA aparece na tela, atraz do dialogo.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[2],"multiple":0,"decisions":["Next"],"nextId":[83],"idItem":[]},
+{"id":83,"charName":"NANA","text":"Oh, minha querida criança. Faz tempo. Eu troxe alguns biscoitos que eu ainda tinha guardado, mas eu não tinha o suficiente em cima da hora. EU queria ter mais e…","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[84],"idItem":[]},
+{"id":84,"charName":"ME","text":"Nana, por favor! Me dar uma abraço. Eu estou tão feliz que você está aqui. Sem Duvida, um troxe biscoitos!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[85],"idItem":[]},
+{"id":85,"charName":"NANA","text":"Oh, pestinha! Eu ainda estava falando, mas eu não resisto em te dar um abraço! Tudo Bem, tudo bem, vamos nos mexendo agora.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[86],"idItem":[]},
+{"id":86,"charName":"","text":"Dentro de 5 segundos <BARULHO DE MOVEIS SENDO MOVIDOS>.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[7],"multiple":0,"decisions":["Next"],"nextId":[87],"idItem":[]},
+{"id":87,"charName":"NANA","text":"Amor, você trouxe mesmo muitas coisas. Muitas delas eu tenho certeza que você nunca vai usar e nós estamos trabalhando mais do que devemos.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[88],"idItem":["BED"]},
+{"id":88,"charName":"NANA","text":"Mas eu pude ver muito das suas coisas que eu não via a séculos… as fotos, os brinquedos. E eu sentir muito a sua falta.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[89],"idItem":[]},
+{"id":89,"charName":"NANA","text":"O que me lembra… Eu trouxe uma coisa para sua nova casa, Eu espero que goste…","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[90],"idItem":[]},
+{"id":90,"charName":"ME","text":"Oh, Nana. Eu adoro tudo que você faz.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[91],"idItem":[]},
+{"id":91,"charName":"NANA","text":"Por que você tem que me fazer chorar? Eu sou uma velha mulher!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[92],"idItem":[]},
+{"id":92,"charName":"ME","text":"Yeah, claro. Apenas quando lhe é conveniente.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[93],"idItem":[]},
+{"id":93,"charName":"NANA","text":"Oh céus, essa é a hora?  Eu adoraria repreende-lo nesse último comentário, mas devo ir antes de ficar escuro, querida.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[94],"idItem":[]},
+{"id":94,"charName":"NANA","text":"Eu espero que você me faça uma visita em breve. Eu posso cozinhar uma comida aprorpriada se você for lá em casa! E eu vou está esperando suas ligações muitas muitas vezes.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[95],"idItem":[]},
+{"id":95,"charName":"NANA","text":"Se cuida, amor.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[96],"idItem":[]},
+{"id":96,"charName":"ME","text":"Mesmo se Eu não fizer isso, eu sei que você vai. Obrigado, Nana!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[97],"idItem":[]},
+{"id":97,"charName":"","text":"<SOM DA PORTA SE FECHANDO>. Sprite da NANA desaparece. ITEM DESBLOQUIADO.","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[3],"multiple":0,"decisions":["Next"],"nextId":[128],"idItem":["PLANT","ONESIE","PILLOW"]},
+
+
+
+
+{"id":98,"charName":"ME","text":"Eu espero se Leela tenha algum tempo de sobra para ajudar? Eu acho que vou tentar a minha sorte! Ela vive bem aqui em frente, de qualquer maneira.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[99],"idItem":[]},
+{"id":99,"charName":"","text":"<BATIDAS NA PORTA>. <PORTA SE ABRINDO>. Sprite da LEELA aparece na tela.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[2],"multiple":0,"decisions":["Next"],"nextId":[100],"idItem":[]},
+{"id":100,"charName":"ME","text":"Ei, Leela! Desculpa o incomodo, mas eu estava pensando se você tem um tempo livre? Eu trouxe algumas caixas a mais do que eu pensava… e agora eu estou meio sobrecarregado…","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[101],"idItem":[]},
+{"id":101,"charName":"ME","text":"Mas está tudo bem se você não puder nesse exato momento! Eu realmente entendo--","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[102],"idItem":[]},
+{"id":102,"charName":"LEELA","text":"Ei, ei, calmaaa ai, hahaha. Não precisa ficar tão tenso. Eu estou limpando a caixa de areia do meu gato, mas eu estárei lá em um segundo. Deixe a porta aberta, eu não vou demorar.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[103],"idItem":[]},
+{"id":103,"charName":"ME","text":"Oh meu Deus, Leela! Você é a melhor vizinha, sempre. Muito obrigado!!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[104],"idItem":[]},
+
+{"id":104,"charName":"ME","text":"Bem, É melhor eu ir começando!","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[105],"idItem":[]},
+{"id":105,"charName":"ME","text":"Eu espero se todos os vizinhos são maravilhosos como Leela.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[106],"idItem":[]},
+{"id":106,"charName":"ME","text":"Quando eu pensei em me mudar, eu nunca parei para considerar sobre os vizinhos… isto tornou-se uma verdadeira agradavel supresa.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[107],"idItem":[]},
+{"id":107,"charName":"ME","text":"Isso faz com que o processo de mudaça seja muito mais agradavel do que eu pensava que seria.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[108],"idItem":[]},
+{"id":108,"charName":"","text":"<BATIDAS NA PORTA>. Sprite da LEELA aparecer na tela, por trás do diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[2],"multiple":0,"decisions":["Next"],"nextId":[109],"idItem":[]},
+{"id":109,"charName":"LEELA","text":"Eu sei que eu disse para você deixar a porta aberta, mas está tudo bem se eu ir entrando?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[110],"idItem":[]},
+{"id":110,"charName":"ME","text":"Com certesa, Leela! Por favor entre!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[111],"idItem":[]},
+{"id":111,"charName":"LEELA","text":"Bem, está um pouco vazio aqui! Mas isto é como é, quando você se muda. Vai levar um tempo, mas você vai chamar esse lugar de lar muito em breve.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[112],"idItem":[]},
+{"id":112,"charName":"ME","text":"Oh, Eu não posso esperar por esse dia chegar! Mas Eu acho que eu preciso começar a desempacotar se eu quiser que isso aconteça, hahaha.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[113],"idItem":[]},
+{"id":113,"charName":"LEELA","text":"Você está com a absoluta razão. Então, vamos começar?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[114],"idItem":[]},
+{"id":114,"charName":"ME","text":"Sim, Leela! Assim… gatos? Me diga mais sobre isso!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[115],"idItem":[]},
+{"id":115,"charName":"LEELA","text":"Bem, dizer para você que eu sou malucas por gatinhos seria uma noção…","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[116],"idItem":[]},
+{"id":116,"charName":"","text":"Depois de 5 segundos <BARULHO DE MOVEIS SENDO MOVIDOS>.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[5],"multiple":0,"decisions":["Next"],"nextId":[117],"idItem":[]},
+{"id":117,"charName":"LEELA","text":"Yeah, desse modo é facíl. Tomando conta de todos os animais que eu resgato para um abrigo é um pouco mais dificil.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[118],"idItem":["BED"]},
+{"id":118,"charName":"ME","text":"Yeah, eu aposto. Me parece ser muito trabalho, mas parece ser bem legal ter alguem para sempre te fazer compania.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[119],"idItem":[]},
+{"id":119,"charName":"LEELA","text":"É muito legal. Eu espero que você va ao abrigo econheça um novo amigo logo que você se estabelecer aqui.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[120],"idItem":[]},
+{"id":120,"charName":"ME","text":"Isso… parece ser uma otima ideia.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[121],"idItem":[]},
+{"id":121,"charName":"LEELA","text":"Parece que nosso trabalho está pronto aqui. Eu preciso voltar para alimentar minhas pequenas criaturas agora, mas se você precisar de alguma coisa, eu estou bem bróximo de você.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[122],"idItem":[]},
+{"id":122,"charName":"ME","text":"Ótimo, Obrigado por sua generosidade, Leela!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[123],"idItem":[]},
+{"id":123,"charName":"LEELA","text":"Não se preocupe com isso!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[124],"idItem":[]},
+{"id":124,"charName":"LEELA","text":"Oh, Eu quase esqueci. Quando eu ouvi que alguem estava de mudança para o predio, eu comprei uma coisinha. Um pequeno presente de boas vindas. Espero que você goste!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[125],"idItem":[]},
+{"id":125,"charName":"ME","text":"Claro, Leela! Muito Obrigado! Eu vou te dar alguma coisa assim que eu puder!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[126],"idItem":[]},
+{"id":126,"charName":"LEELA","text":"Isso seria adoravel! Tenha uma boa noite!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[127],"idItem":[]},
+{"id":127,"charName":"","text":"<SOM DA PORTA FECHANDO>. Sprite da LEELA desaparece. ITEM DESBLOQUEADO.","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[3],"multiple":0,"decisions":["Next"],"nextId":[128],"idItem":["STATUATE","HATSTAND","CATDOG"]},
+
+
+
+
+
+{"id":128,"charName":"ME","text":"Wow, Hoje foi uma canseira, mas nós conseguimos fazer tanto!!! Eu mal posso esperar para cair na minha cama. Ainda tem muito mais o que fazer amanhã.","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[129],"idItem":[]},
+
+
+
+
+{"id":129,"charName":"ME","text":"Ter pessoas me ajudando foi muito legal. Realmente me fez sentir como se eles estivessem colocando pedaços deles dentro da minha casa. Pedaços que amo ter perto de mim.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[130],"idItem":[]},
+{"id":130,"charName":"ME","text":"E mesmo se houvesse pessoas me ajudando, eu também realizei muito sozinho. Eu sinto que as coisas estão mudando rapidamente, mas eu gosto desta mudança.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[131],"idItem":[]},
+{"id":131,"charName":"ME","text":"É melhor eu ir dormir agora.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[132],"idItem":[]},
+{"id":132,"charName":"","text":"<TOM DE BOA NOITE>.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[133],"idItem":[]},
+
+
+
+
+{"id":133,"charName":"ME","text":"YAAaaawwnnnn... <PAUSE> Oh meu, eu dormir que nem uma madeira.","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[134],"idItem":[]},
+{"id":134,"charName":"ME","text":"OK, devolta ao trabalho. Eu tenho que deixar essa casa pronta e funcionando antes de eu ter que lidar com todas as tarefas da faculdade.","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[135],"idItem":[]},
+{"id":135,"charName":"ME","text":"O que está faltando? Esse quadro ainda está parecendo um pouco vazio. Eu não tenho lugar para estudar, talvez eu devesse comprar uma mesa? Eu não sei…","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[136],"idItem":[]},
+{"id":136,"charName":"ME","text":"You know what? I’ll just ask someone to hang out with me at the mall today. If I see a lot of stuff, I’ll know what’s missing.","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[137],"idItem":[]},
+{"id":137,"charName":"ME","text":"Quem eu devo ligar?","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["EVAN", "NANA","LEELA"],"nextId":[138,167,190],"idItem":[]},
+
+
+
+
+
+
+{"id":138,"charName":"ME","text":"Oi, Evan! Sou eu.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[139],"idItem":[]},
+{"id":139,"charName":"EVAN","text":"Eu sei que é você, bobo. Como está?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[140],"idItem":[]},
+{"id":140,"charName":"ME","text":"Duh! Então, eu estava me perguntando se você quer ir ao shopping. Meu quarto está muito vazio e eu estava pensando em ir numa onda de compras. Talvéz você pudesse me ajudar com algumas ideia…","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[141],"idItem":[]},
+{"id":141,"charName":"EVAN","text":"Você não tem que perguntar duas vezes! Eu só vou tomar uma ducha rápida e então eu vou até ai. Te pego em… 30 minutos?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[142],"idItem":[]},
+{"id":142,"charName":"ME","text":"Perfeito! Eu vou está te esperando! Te vejo já!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[143],"idItem":[]},
+{"id":143,"charName":"EVAN","text":"Vejo você em um instante!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[144],"idItem":[]},
+{"id":144,"charName":"","text":"<BARULHO DO TELEFONE DESLIGANDO.> Sprite do EVAN desaparece da tela.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[4],"multiple":0,"decisions":["Next"],"nextId":[145],"idItem":[]},
+{"id":145,"charName":"ME","text":"Eu poderia me acostumar em ver o Evan com tanta facilidade. De volta a minha velha casa, nós não somos exatamente vizinhos, assim sair não foi partiiculamente fácil.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[146],"idItem":[]},
+{"id":146,"charName":"ME","text":"Eu espero que eleme convide para a casa dele em breve. Ele tem tantos equipamentos legais. Ele é realmente engraçado.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[147],"idItem":[]},
+{"id":147,"charName":"","text":"<BARULHO HONK HONK>.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[6],"multiple":0,"decisions":["Next"],"nextId":[148],"idItem":[]},
+{"id":148,"charName":"ME","text":"Eeeeee, só pode ser o Evan!","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[149],"idItem":[]},
+
+
+
+
+
+
+
+
+{"id":149,"charName":"EVAN","text":"Você chegou no seu destino.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[21],"multiple":0,"decisions":["Next"],"nextId":[150],"idItem":[]},
+{"id":150,"charName":"ME","text":"Oh, certo. Obrigado, motorista do uber. Tenha um bom dia!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[151],"idItem":[]},
+{"id":151,"charName":"EVAN","text":"Agora,você espere um segundo!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[152],"idItem":[]},
+{"id":152,"charName":"ME","text":"Claro, eu vou esperar, mas eu vou o classificarei com menos de 5 estrelas.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[153],"idItem":[]},
+{"id":153,"charName":"EVAN","text":"Claro, eu acho que eu pedir por isso!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[154],"idItem":[]},
+
+{"id":154,"charName":"","text":"Sprite do Evan desaparece da tela. <Ruidos de Multidão> por 2 segundos. Sprite do EVAN aparece na tela, por trás do diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioShopping.png","songs":[8],"multiple":0,"decisions":["Next"],"nextId":[155],"idItem":[]},
+
+{"id":155,"charName":"EVAN","text":"Então, há algo que você está procurando em particular?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[156],"idItem":[]},
+{"id":156,"charName":"ME","text":"Sim, percebi imediatamente que não tenho escrivaninha, então isso é certo. Mas eu pedi sua ajuda porque eu queria algo com um pouco mais ... personalidade, eu acho?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[157],"idItem":[]},
+{"id":157,"charName":"EVAN","text":"Você adivinha? Você está insinuando que eu não tenho personalidade? Depois de ter tentado tanto? Eu estou ferido!!!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[158],"idItem":[]},
+{"id":158,"charName":"ME","text":"Evan, você sabe que não é isso que eu quis dizer, a menos que você queira que eu me junte a um clube de teatro só para combinar com você!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[159],"idItem":[]},
+{"id":159,"charName":"EVAN","text":"E você deveria saber que eu estou apenas brincando. Nós poderíamos ir àquela loja de brincadeiras depois de pegar sua mesa. Tenho certeza de que teremos várias ideias inovadoras para que seu quarto comece a se tornar tão incrível quanto o meu.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[160],"idItem":[]},
+{"id":160,"charName":"ME","text":"Eu amo o quão humilde você é quando se trata de sua casa. Eu aspiro a ser assim um dia.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[161],"idItem":[]},
+{"id":161,"charName":"EVAN","text":"Tudo no devido tempo. Agora vamos pegar o que viemos aqui!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[162],"idItem":[]},
+
+{"id":162,"charName":"","text":"O sprite do EVAN desaparece. <KA-CHING NOISE>. <RUÍDO DO CARRO>. O sprite do EVAN aparece na tela, por trás do diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioShopping.png","songs":[9,10],"multiple":0,"decisions":["Next"],"nextId":[163],"idItem":[]},
+
+
+
+
+
+
+{"id":163,"charName":"EVAN","text":"E você chegou ao seu destino final ... por hoje.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[20],"multiple":0,"decisions":["Next"],"nextId":[164],"idItem":[]},
+{"id":164,"charName":"ME","text":"Você quase me pegou lá, Evan! Hoje foi muito divertido. Eu espero que você me ligue da próxima vez.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[165],"idItem":[]},
+{"id":165,"charName":"EVAN","text":"Ai, sinto-me obrigado, agora! Boa noite!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[166],"idItem":[]},
+{"id":166,"charName":"","text":"<SOM DO CARRO>. O sprite do EVAN desaparece. ITEM UNLOCK.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[10],"multiple":0,"decisions":["Next"],"nextId":[209],"idItem":["POSTER","WALKIETALKIE","ARCADE"]},
+
+
+
+
+{"id":167,"charName":"ME","text":"Olá Nana! Como você está?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[168],"idItem":[]},
+{"id":168,"charName":"NANA","text":"Ainda estou vivo, se é isso que você quer saber.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[169],"idItem":[]},
+{"id":169,"charName":"ME","text":"Nana! Não seja tão mórbida. Você está ocupado hoje?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[170],"idItem":[]},
+{"id":170,"charName":"NANA","text":"Não, realmente não. Você quer vir me ver?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[171],"idItem":[]},
+{"id":171,"charName":"ME","text":"Na verdade ... eu estava pensando se você gostaria de ir ao shopping comigo ... para um pouco de compras?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[172],"idItem":[]},
+{"id":172,"charName":"NANA","text":"Sim, acho que posso ir com você, mas você seria uma querida e me encontraria lá? Podemos pegar um táxi no caminho de volta.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[173],"idItem":[]},
+{"id":173,"charName":"ME","text":"Absolutamente! Eu estarei ai em ... 20 minutos?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[174],"idItem":[]},
+{"id":174,"charName":"NANA","text":"Tudo bem! Vejo você lá, amor.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[175],"idItem":[]},
+{"id":175,"charName":"","text":"<TELEFONE DESLIGANDO.> O sprite do NANA desaparece da tela.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[4],"multiple":0,"decisions":["Next"],"nextId":[176],"idItem":[]},
+{"id":176,"charName":"ME","text":"Deixe-me verificar agora ... Eu acho que há um ponto de ônibus a dois quarteirões de distância. Não deve ser muito difícil.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[177],"idItem":[]},
+
+
+
+{"id":177,"charName":"","text":"<RUÍDO DO CARRO>. O sprite do NANA aparece na tela, por trás do diálogo.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[10],"multiple":0,"decisions":["Next"],"nextId":[178],"idItem":[]},
+{"id":178,"charName":"NANA","text":"Eu pensei em esperar por você aqui no ponto de ônibus, querida.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[21],"multiple":0,"decisions":["Next"],"nextId":[179],"idItem":[]},
+{"id":179,"charName":"ME","text":"Isso é tão atencioso, Nana. Obrigado!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[180],"idItem":[]},
+{"id":180,"charName":"NANA","text":"Não pense muito, querida. Eu também peguei o ônibus. Agora me diga novamente, o que você estava precisando de que você pensou em fazer uma farra de compras?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[181],"idItem":[]},
+{"id":181,"charName":"ME","text":"Bem, eu preciso de uma mesa, com certeza. Eu só percebi isso quando pensei em usar meu laptop e a cama é um pouco desconfortável ... então tem isso.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[182],"idItem":[]},
+{"id":182,"charName":"ME","text":"Mas também achei que meu quarto estava meio vazio e sem vida. Pensei em adicionar um pouco mais de calor a ele, e quem melhor para ajudar do que você, Nana?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[183],"idItem":[]},
+{"id":183,"charName":"NANA","text":"Oh, estou lisonjeado, querida. Bem, vamos pegar sua mesa e depois andaremos por aí e encontraremos algumas coisas para tornar o seu quarto mais aconchegante. Isso soa bem?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[184],"idItem":[]},
+{"id":184,"charName":"ME","text":"Sim! Nenhuma objeção!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[185],"idItem":[]},
+
+{"id":185,"charName":"","text":"O sprite do NANA desaparece. <KA-CHING NOISE>. <RUÍDO DO CARRO>. O sprite do NANA aparece na tela, por trás do diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioShopping.png","songs":[9],"multiple":0,"decisions":["Next"],"nextId":[186],"idItem":[]},
+
+
+
+
+
+{"id":186,"charName":"NANA","text":"Tudo bem criança. Eu realmente espero que você venha me visitar na próxima vez. Eu sou velho e adoraria fazer boas refeições antes de morrer.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[20],"multiple":0,"decisions":["Next"],"nextId":[187],"idItem":[]},
+{"id":187,"charName":"ME","text":"Nana, nós passamos por isso! Pare de fingir que é mais velho do que realmente é! Eu vou visitá-lo em breve, prometo. E você ainda vai viver por um tempo!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[188],"idItem":[]},
+{"id":188,"charName":"NANA","text":"Você não é nada divertido, mas eu te amo mesmo assim. Boa noite querido. Durma bem.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[189],"idItem":[]},
+
+{"id":189,"charName":"","text":"O sprite do NANA desaparece. <RUÍDO DO CARRO>. ITEM DESBLOQUEADO.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[10],"multiple":0,"decisions":["Next"],"nextId":[209],"idItem":["PLANT","ONESIE","PILLOW"]},
+
+
+
+
+{"id":190,"charName":"LEELA","text":"Boa tarde! Eu ia ao shopping pegar alguns alimentos e mantimentos ... Eu queria saber se você queria comer?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[191],"idItem":[]},
+{"id":191,"charName":"LEELA","text":"Desde que você está se mudando, eu pensei que você poderia ter descoberto que você esqueceu algo que você precisa desesperadamente.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[192],"idItem":[]},
+{"id":192,"charName":"ME","text":"Leela, você é real? Eu estou dormindo?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[193],"idItem":[]},
+{"id":193,"charName":"LEELA","text":"Leela, você é real? Eu estou dormindo? Você é muito engraçado, hahaha. Você está se mudando, todos nós estivemos lá. Talvez você descubra que precisa de uma chave de fenda, um cobertor ou um travesseiro ... então ... você quer vir?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[194],"idItem":[]},
+{"id":194,"charName":"ME","text":"Honestamente, eu ia pedir para você ir ao shopping comigo.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[195],"idItem":[]},
+{"id":195,"charName":"LEELA","text":"Está resolvido então! Eu vou puxar o carro ao redor.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[196],"idItem":[]},
+
+{"id":196,"charName":"","text":"O sprite de LEELA desaparece. <RUÍDO DO CARRO> por cerca de 5 segundos. O sprite de LEELA aparece na tela, atrás do diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[10],"multiple":0,"decisions":["Next"],"nextId":[197],"idItem":[]},
+
+
+
+
+{"id":197,"charName":"LEELA","text":"Então, por que você quer vir comigo para o shopping?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[21],"multiple":0,"decisions":["Next"],"nextId":[198],"idItem":[]},
+{"id":198,"charName":"ME","text":"Bem, no começo eu percebi que tinha que comprar uma mesa. Então notei que meu quarto estava meio frio e me senti um pouco solitário, então pensei em pedir-lhe opiniões sobre o que fazer sobre isso.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[199],"idItem":[]},
+{"id":199,"charName":"LEELA","text":"Se você não quer se sentir sozinho, você pode sempre adotar uma rua. Você se sentirá muito menos solitário depois disso, eu garanto a você.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[200],"idItem":[]},
+{"id":200,"charName":"ME","text":"Ter um animal de estimação parece muito divertido e estou definitivamente considerando isso. Assim que eu tiver tudo sob controle, pagarei uma visita ao abrigo.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[201],"idItem":[]},
+{"id":201,"charName":"LEELA","text":"Enquanto você não acha, ter móveis bonitos ajuda a aliviar o clima. Talvez você possa dar uma olhada em algumas das coisas em exibição na loja de animais.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[202],"idItem":[]},
+{"id":202,"charName":"ME","text":"Sim ... acho que talvez esteja me levando muito a sério. Ter algo idiota pode ser exatamente o que eu preciso.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[203],"idItem":[]},
+{"id":203,"charName":"LEELA","text":"Definitivamente vale a pena tentar. Se eu pudesse, levaria tudo para casa.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioShopping.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[204],"idItem":[]},
+
+{"id":204,"charName":"","text":"O sprite de LEELA desaparece. <KA-CHING NOISE>. <RUÍDO DO CARRO>. O sprite de LEELA aparece na tela, atrás do diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioShopping.png","songs":[10],"multiple":0,"decisions":["Next"],"nextId":[205],"idItem":[]},
+
+
+
+{"id":205,"charName":"LEELA","text":"E estamos de volta. Eu já estou com ciúmes de suas novas aquisições! Você precisa de ajuda para entrar ou…?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/sala.png","songs":[20],"multiple":0,"decisions":["Next"],"nextId":[206],"idItem":[]},
+{"id":206,"charName":"ME","text":"Ah, não se preocupe, Leela, eu posso cuidar disso! Muito obrigado pelo passeio e também pela empresa!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[207],"idItem":[]},
+{"id":207,"charName":"LEELA","text":"Não se preocupe. Tenho certeza que você vai me pagar quando eu precisar de alguém para gatos, hahaha. Tenha um bom dia!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[208],"idItem":[]},
+
+{"id":208,"charName":"","text":"<SOM ENCERRAMENTO DA PORTA>. O sprite de LEELA desaparece. ITEM DESBLOQUEADO.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[3],"multiple":0,"decisions":["Next"],"nextId":[209],"idItem":["STATUATE","HATSTAND","CATDOG"]},
+
+
+
+
+{"id":209,"charName":"ME","text":"Compras são sempre boas. Conhecer o que há de novo no bairro, passear, divertir-se. Foi só o que? Dois dias desde que me mudei? E eu já estou me divertindo muito.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[21],"multiple":0,"decisions":["Next"],"nextId":[210],"idItem":["BUREAU"]},
+{"id":210,"charName":"ME","text":"E meu quarto também está bem arrumado. Não como ontem. <PAUSE> Mas acho que pode melhorar ainda.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[211],"idItem":[]},
+{"id":211,"charName":"ME","text":"Se o meu quarto fosse um chefe do JRPG, aposto que diria dizendo “ESTE NÃO É MEU MESMO!” Hahaha.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[212],"idItem":[]},
+{"id":212,"charName":"ME","text":"Bem, apaga-se as luzes!","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[213],"idItem":[]},
+
+
+
+
+
+{"id":213,"charName":"ME","text":"Embora ... seria ainda melhor se eu pudesse aprender a fazer mais coisas sozinha, já …","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[214],"idItem":[]},
+{"id":214,"charName":"ME","text":"Uma coisa de cada vez.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[215],"idItem":[]},
+
+
+
+{"id":215,"charName":"ME","text":"Um novo dia. Último dia antes de precisar me inscrever e fazer todas as coisas divertidas no campus …","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[216],"idItem":[]},
+{"id":216,"charName":"ME","text":"I’ve thought so much about what I need, but what about my guests? What if I want someone to come watch a movie or play video games?","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[217],"idItem":[]},
+{"id":217,"charName":"ME","text":"Eu pensei muito sobre o que eu preciso, mas e sobre meus convidados? E se eu quiser que alguém venha assistir a um filme ou jogar videogame?","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[218],"idItem":[]},
+{"id":218,"charName":"ME","text":"Cujo conselho eu quero?","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[219],"idItem":[]},
+{"id":219,"charName":"","text":"Três botões aparecem na tela, mostrando os nomes de NANA, EVAN e LEELA. O jogador tem que escolher um deles, após o qual, o enredo prosseguirá, variando de acordo com o que foi escolhido pelo jogador.","pathCharacter":"/Char/black.png","pathScene":"/background/esbocoQuarto.png","songs":[],"multiple":0,"decisions":["EVAN", "NANA","LEELA"],"nextId":[220,257,289],"idItem":[]},
+
+
+
+{"id":220,"charName":"","text":"<TOQUE DE TELEFONE CELULAR>. O sprite de EVAN aparece na tela, sob o diálogo, quando sua primeira linha é mostrada.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[1],"multiple":0,"decisions":["Next"],"nextId":[221],"idItem":[]},
+{"id":221,"charName":"ME","text":"Hã? Chame Olá, Evan!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[222],"idItem":[]},
+{"id":222,"charName":"EVAN","text":"Ei, você está ocupado agora?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[223],"idItem":[]},
+{"id":223,"charName":"ME","text":"Na verdade não, eu estava prestes a ligar para você.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[224],"idItem":[]},
+{"id":224,"charName":"EVAN","text":"Ótimo! Por que você não vem? Eu comprei alguns lanches e novos jogos e sei o quanto você quer checar todas as coisas novas que eu criei desde a última vez que você veio aqui.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[225],"idItem":[]},
+{"id":225,"charName":"ME","text":"Eu realmente gosto, especialmente desde que eu tenho pensado sobre o que fazer para tornar minha casa mais hospitaleira para os convidados também.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[226],"idItem":[]},
+{"id":226,"charName":"EVAN","text":"Perfeito. Vou te dar algumas dicas e todos que têm menos de 30 anos estarão morrendo de vontade de visitá-lo sempre que puderem.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[227],"idItem":[]},
+{"id":227,"charName":"ME","text":"A menos que sejam cheerleaders ...","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[228],"idItem":[]},
+{"id":228,"charName":"EVAN","text":"Sim, ou descolados, mas quem se importa? Eu sei que não. Eu estarei esperando por você, ok? Te vejo em breve!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[229],"idItem":[]},
+{"id":229,"charName":"ME","text":"Te vejo em breve!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[230],"idItem":[]},
+
+{"id":230,"charName":"","text":"<Ruído de suspensão do telefone>. O sprite do EVAN desaparece da tela.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[4],"multiple":0,"decisions":["Next"],"nextId":[231],"idItem":[]},
+
+
+
+
+{"id":231,"charName":"","text":"<ABERTURA DA PORTA>. O sprite do EVAN aparece na tela, sob o diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[3],"multiple":0,"decisions":["Next"],"nextId":[232],"idItem":[]},
+
+{"id":232,"charName":"EVAN","text":"Bem vindo a minha fortaleza! Faz tanto tempo desde que você visita! Estou tão feliz, hahaha! Entre, entre!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[22],"multiple":0,"decisions":["Next"],"nextId":[233],"idItem":[]},
+{"id":233,"charName":"ME","text":"Você é tão fofo quando está animado com alguma coisa, hahaha. Fico feliz em ajudar você a se sentir assim.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[234],"idItem":[]},
+{"id":234,"charName":"EVAN","text":"Você é meu melhor amigo no mundo. Você não foi capaz de fazer isso.","pathCharacter":"/Char/sprite evan pronto 2.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[235],"idItem":[]},
+{"id":235,"charName":"ME","text":"Evan, por favor. Estou te provocando! Além disso, seu lugar parece ainda mais incrível do que eu me lembro.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[236],"idItem":[]},
+{"id":236,"charName":"EVAN","text":"Eu sei direito? Eu usei muita atenção nisso.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[237],"idItem":[]},
+{"id":237,"charName":"ME","text":"Sim, então me ajude a colocar um pouco de pensamento no MEU quarto para que você possa se sentir em casa quando estiver lá também!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[238],"idItem":[]},
+{"id":238,"charName":"EVAN","text":"Uau, você está dizendo que você se sente como meu lugar se sente em casa para você? Isso significa muito para mim, de verdade.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[239],"idItem":[]},
+{"id":239,"charName":"ME","text":"Você se sente em casa, Evan. Mas a maneira que você pode colocar em seu lugar uma grande ajuda também.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[240],"idItem":[]},
+{"id":240,"charName":"EVAN","text":"Ah, você se sente em casa também. Mas não há convidado aqui. Vou reclamar disso em um videogame.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[241],"idItem":[]},
+{"id":241,"charName":"ME","text":"Ooooh, você vai se arrepender de dizer isso !!!!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[242],"idItem":[]},
+{"id":242,"charName":"","text":"O sprite EVAN desaparece. <ARCADE SOUNDS> por cerca de 5 segundos. O sprite EVAN aparece na tela sob o diálogo.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[243],"idItem":[]},
+{"id":243,"charName":"EVAN","text":"Bem, você certamente tem um pouco de coragem ... vindo ao meu lugar, pedindo o meu conselho e, em seguida, entregando-me minha bunda em uma bandeja! Você parece tão bem?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[244],"idItem":[]},
+{"id":244,"charName":"ME","text":"Eu estava bem baby. É tarde, porém, e você chegou a algumas idéias em minha mente. Você vai me dar uma carona para casa?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[245],"idItem":[]},
+{"id":245,"charName":"EVAN","text":"É claro é claro. Grande dia amanhă, huh?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[246],"idItem":[]},
+{"id":246,"charName":"ME","text":"O começo de coisas maiores, suponho.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[247],"idItem":[]},
+{"id":247,"charName":"EVAN","text":"Sim ... mas você vai ace.","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[248],"idItem":[]},
+{"id":248,"charName":"EVAN","text":"Vamos dar-lhe isso então!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[249],"idItem":[]},
+
+{"id":249,"charName":"","text":"O sprite EVAN desaparece. <SOM DE CARRO> por cerca de 3 segundos. O sprite EVAN aparece na tela sob o diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[10],"multiple":0,"decisions":["Next"],"nextId":[250],"idItem":[]},
+
+
+
+
+
+{"id":250,"charName":"EVAN","text":"Tenha uma boa noite… e… ei?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[251],"idItem":[]},
+{"id":251,"charName":"ME","text":"Hã?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[252],"idItem":[]},
+{"id":252,"charName":"EVAN","text":"Te vejo amanhã?","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[253],"idItem":[]},
+{"id":253,"charName":"ME","text":"Claro, você vai gozar!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[254],"idItem":[]},
+{"id":254,"charName":"ME","text":"Boa noite e ... descanse a cabeça nas muitas vezes que eu te venci hoje!","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[255],"idItem":[]},
+{"id":255,"charName":"EVAN","text":"Oh você pouco ---","pathCharacter":"/Char/sprite evan pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[256],"idItem":["POSTER","WALKIETALKIE","ARCADE"]},
+
+{"id":256,"charName":"","text":"<PORTA FECHADA>. ITEM DESBLOQUEADO.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[3],"multiple":0,"decisions":["Next"],"nextId":[305],"idItem":[]},
+
+
+
+{"id":257,"charName":"","text":"<MARCAÇÃO DO TELEFONE CELULAR>. <TOQUE DE TELEFONE CELULAR>. O sprite de NANA aparece na tela, sob o diálogo, quando sua primeira linha é mostrada.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[1],"multiple":0,"decisions":["Next"],"nextId":[258],"idItem":[]},
+
+{"id":258,"charName":"ME","text":"Olá Nana! Hoje é o dia.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[259],"idItem":[]},
+{"id":259,"charName":"NANA","text":"Desculpe, querida, eu não sigo.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[260],"idItem":[]},
+{"id":260,"charName":"ME","text":"Bem, você está me pedindo para visitá-lo","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[261],"idItem":[]},
+{"id":261,"charName":"NANA","text":"Oh, certo. Eu apenas presumi que você nunca encontraria tempo para visitar sua antiga avó moribunda.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[262],"idItem":[]},
+{"id":262,"charName":"ME","text":"Bem, deixe-me saber se você morrer, então eu não vou.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[263],"idItem":[]},
+{"id":263,"charName":"NANA","text":"Olhe bem aqui, você","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[264],"idItem":[]},
+{"id":264,"charName":"ME","text":"Nana, estou brincando. Isso foi uma piada, hahaha. Então ... eu posso comer?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[265],"idItem":[]},
+{"id":265,"charName":"NANA","text":"Sim, você faz. Mas vem com o tempo, porque eu vou cozinhar e assar todas as coisas que você gosta.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[266],"idItem":[]},
+{"id":266,"charName":"ME","text":"Tudo bem! Não posso esperar !!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/black.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[267],"idItem":[]},
+
+
+{"id":267,"charName":"","text":"O sprite do EVAN desaparece da tela. <RUÍDO DO CARRO>.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[10],"multiple":0,"decisions":["Next"],"nextId":[268],"idItem":[]},
+
+
+
+
+{"id":268,"charName":"","text":"<ABERTURA DA PORTA>. O sprite do NANA aparece na tela, sob o diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/black.png","songs":[3],"multiple":0,"decisions":["Next"],"nextId":[269],"idItem":[]},
+
+
+{"id":269,"charName":"NANA","text":"Entre, querida. Eu fiz um pouco de chá e abri alguns biscoitos para que você possa comer e conversar comigo enquanto eu preparo a comida.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[22],"multiple":0,"decisions":["Next"],"nextId":[270],"idItem":[]},
+{"id":270,"charName":"ME","text":"Coisa certa! Sua casa, suas regras.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[271],"idItem":[]},
+{"id":271,"charName":"NANA","text":"Minha casa não é sobre regras, querida. É sobre dar amor, dar comida e dar meu tempo para mim e para meus convidados.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[272],"idItem":[]},
+{"id":272,"charName":"ME","text":"É como se você estivesse lendo minha mente. Eu tenho me perguntado o que é que eu quero que meus convidados se sintam quando comem mais.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[273],"idItem":[]},
+{"id":273,"charName":"NANA","text":"Então, além de encher seu rosto com a minha comida, você tinha outro motivo para me ligar, né?","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[274],"idItem":[]},
+{"id":274,"charName":"ME","text":"Bem, eu realmente pensei que você viveu o suficiente para me dar conselhos sólidos sobre ter convidados. Você faz parecer que é uma coisa ruim, Nana.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[275],"idItem":[]},
+{"id":275,"charName":"NANA","text":"Não é uma coisa ruim, querida. Você vê, a coisa sobre ter a sua casa é que não se trata de comprar coisas e jogar lixo na sua casa com as coisas. É sobre como seu relacionamento com sua casa é construído.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[276],"idItem":[]},
+{"id":276,"charName":"NANA","text":"Você precisará de coisas diferentes à medida que crescer e envelhecer, e perceberá que está mudando, e o significado do espaço seguro também mudará. Mas há uma coisa que nunca mudará.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[277],"idItem":[]},
+{"id":277,"charName":"NANA","text":"Sua casa sempre será o lugar em que você se sente amado. Seja sozinho ou por outras pessoas. Eu gosto de pensar que minha casa é a casa de todas as pessoas que eu amo.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[278],"idItem":[]},
+{"id":278,"charName":"ME","text":"Uau, Nana Isso foi muito profundo. Eu quase esqueci como você pode ser sarcástico. Eu gosto quando você mostra o que está abaixo disso.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[279],"idItem":[]},
+{"id":279,"charName":"ME","text":"Apenas, por favor, não coloque muita pimenta na minha comida para me punir por este comentário.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[280],"idItem":[]},
+{"id":280,"charName":"NANA","text":"Vou pensar sobre isso.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[281],"idItem":[]},
+{"id":281,"charName":"ME","text":"Obrigado Nana.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[282],"idItem":[]},
+
+{"id":282,"charName":"","text":"O sprite de NANA desaparece. <DISH NOISES> por cerca de 5 segundos. O sprite do NANA aparece na tela, sob o diálogo.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[5],"multiple":0,"decisions":["Next"],"nextId":[283],"idItem":[]},
+
+{"id":283,"charName":"ME","text":"Oof !!!!! Picante, mas delicioso. Você terá que se esforçar mais na próxima vez, Nana!","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[284],"idItem":[]},
+{"id":284,"charName":"NANA","text":"Oh querida. Eu não apimentei nada. Acabei de descobrir que venho gostando muito mais de pimenta do que costumava. Eu acho que você pode dizer que me faz ... picante.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[285],"idItem":[]},
+{"id":285,"charName":"ME","text":"Oh. Meu Deus. Nana Por favor. Nunca faça essa piada novamente.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[286],"idItem":[]},
+{"id":286,"charName":"NANA","text":"Veja querido? Eu posso encontrar novas maneiras de punir você por desrespeitar seus mais velhos.","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[287],"idItem":[]},
+{"id":287,"charName":"ME","text":"Oh, Nana Eu te amo muito ...","pathCharacter":"/Char/sprite nana pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[288],"idItem":[]},
+
+{"id":288,"charName":"","text":"O sprite de NANA desaparece. <CAR SOUNDS> por cerca de 3 segundos. ITEM DESBLOQUEADO.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[10],"multiple":0,"decisions":["Next"],"nextId":[305],"idItem":["PLANT","ONESIE","PILLOW"]},
+
+
+
+
+
+{"id":289,"charName":"ME","text":"Talvez eu possa convidar Leela para que ela possa me dar um feedback honesto sobre o que está faltando.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[290],"idItem":[]},
+
+{"id":290,"charName":"","text":"<Batendo na porta>. <PORTA DE ABERTURA>. O sprite de LEELA aparece na tela, sob o diálogo, quando sua primeira linha é mostrada.","pathCharacter":"/Char/black.png","pathScene":"/background/sala.png","songs":[2],"multiple":0,"decisions":["Next"],"nextId":[291],"idItem":[]},
+{"id":291,"charName":"ME","text":"Leela, ei! Espere ... um cachorro? Eu pensei que você fosse uma pessoa de gato!","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[292],"idItem":[]},
+{"id":292,"charName":"LEELA","text":"Hahaha, sim eu sou louco por gatos, mas eu sou um amante dos animais. Gatos, cachorros, periquitos. Todos moram comigo. Eu estava apenas indo passear com meu cachorro. Você precisou de alguma coisa?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[293],"idItem":[]},
+{"id":293,"charName":"ME","text":"Você se importaria se eu me juntasse a você? Eu só queria conversar.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[294],"idItem":[]},
+{"id":294,"charName":"LEELA","text":"Você não precisa perguntar se quer conversar, bobo. Vamos então.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/sala.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[295],"idItem":[]},
+
+
+
+{"id":295,"charName":"LEELA","text":"Então, sobre o que você queria conversar?","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioRua.png","songs":[22],"multiple":0,"decisions":["Next"],"nextId":[296],"idItem":[]},
+{"id":296,"charName":"ME","text":"Bem. Percebi que, por tudo que eu gostava do que eu gostaria em minha casa, eu nunca me perguntava o que meus convidados iriam gostar. Você tem um monte de pequenos convidados em sua casa, então pensei que talvez você tivesse algumas dicas.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioRua.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[297],"idItem":[]},
+{"id":297,"charName":"LEELA","text":"Oh, você é interessante. Meus animais de estimação não são convidados. Eles moram na minha casa. É o seu santuário, tanto quanto é meu.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioRua.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[298],"idItem":[]},
+{"id":298,"charName":"LEELA","text":"Eu entendo o que você acha que são convidados Por favor, não pense que eu me ofendo. Eu não. E eu vou te dizer o que estou pensando sobre o que você está me perguntando.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioRua.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[299],"idItem":[]},
+{"id":299,"charName":"LEELA","text":"Quando eu trago um novo animal de estimação para casa, presto muita atenção em como eles reagem. O que eles se adaptam, logo de cara. O que eles têm dificuldade em entender. O que eles amam. Se há algo que eles evitam a todo custo.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioRua.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[300],"idItem":[]},
+{"id":300,"charName":"LEELA","text":"Eu sinto que tenho que aprender o que preciso. Você nunca terá a casa perfeita, nem para você nem para seus convidados. Mas você pode aprender a torná-lo melhor para os outros, o que tornará mais fácil para você olhar para dentro de si mesmo e saber o que está faltando ali para deixar seu coração à vontade.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioRua.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[301],"idItem":[]},
+{"id":301,"charName":"LEELA","text":"Quando você e seus convidados estão à vontade. Quando você e todos os demais da casa sentem que podem ser eles mesmos, é como uma casa é.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioRua.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[302],"idItem":[]},
+{"id":302,"charName":"ME","text":"Nossa, Leela Se você tem um animal de estimação, eu quero ter um já! Haha ha.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioRua.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[303],"idItem":[]},
+{"id":303,"charName":"LEELA","text":"Sim, sim ... da próxima vez que nos virmos, vou levá-lo ao abrigo onde trabalho.","pathCharacter":"/Char/sprite leela pronto 1.png","pathScene":"/background/cenarioRua.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[304],"idItem":[]},
+
+{"id":304,"charName":"","text":"O sprite de LEELA desaparece. ITEM DESBLOQUEADO.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioRua.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[305],"idItem":["STATUATE","HATSTAND","CATDOG"]},
+
+
+
+
+
+
+{"id":305,"charName":"ME","text":"Bem, e isso encerra!","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioQuarto.png","songs":[20],"multiple":0,"decisions":["Next"],"nextId":[306],"idItem":["SOFA"]},
+{"id":306,"charName":"ME","text":"Isso tem sido meio selvagem, fazendo muito em apenas três dias. Eu me sinto tão realizado.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[307],"idItem":[]},
+{"id":307,"charName":"ME","text":"E amanhã eu vou começar a enfrentar um novo conjunto de desafios ... faculdade. Estou tão animada, mas também temendo isso.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[308],"idItem":[]},
+{"id":308,"charName":"ME","text":"Mas não faz sentido se preocupar tanto. Eu poderia fazer isso, e vou fazer isso muito bem.","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[309],"idItem":[]},
+{"id":309,"charName":"ME","text":"Esta será a minha casa pelos próximos quatro a cinco anos, afinal de contas!","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[310],"idItem":[]},
+{"id":310,"charName":"ME","text":"Dormir bem!","pathCharacter":"/Char/black.png","pathScene":"/background/cenarioQuarto.png","songs":[],"multiple":0,"decisions":["Next"],"nextId":[310],"idItem":["WHEELCHAIR"]}
+
+
+
+
+
+	]
+	
+}
